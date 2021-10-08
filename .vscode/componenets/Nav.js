@@ -6,3 +6,4 @@ export default () => `
       <li><a href="#gallery">Gallery</a></li>
     </ul>
   </nav>`;
+
