@@ -1,4 +1,4 @@
 export default {
-  header: "About",
-  view: "About"
+  header: "Local Music Search",
+  page: "About"
 };
