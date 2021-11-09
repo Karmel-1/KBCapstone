@@ -1,6 +1,15 @@
 import html from "html-literal";
 import kissexample from "../../assets/photos/kissexample.JPG";
+import image1 from "../../assets/photos/image1.jpg";
+import image2 from "../../assets/photos/image2.jpg";
+import image3 from "../../assets/photos/image3.jpg";
 export default () => html`
+
+<img src="${kissexample}" alt="Girl in a jacket" width="500" height="600">
+<img src="${image1}" alt="Girl in a jacket" width="500" height="600">
+<img src="${image2}" alt="Girl in a jacket" width="500" height="600">
+<img src="${image3}" alt="Girl in a jacket" width="500" height="600">
+
   <p>
     There is a obvious explanation as to bands are great because music is great.
     For sure my favorite thing is hearing live music. Often people relate to a
@@ -16,5 +25,7 @@ export default () => html`
     live experiences to appreciate music will do wonders in other peoples life
     as well.
   </p>
-  <img src="${kissexample}" alt="this is a image of a kiss band member" />
+
+
+  </section>
 `;

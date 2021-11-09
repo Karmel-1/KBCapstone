@@ -32,15 +32,15 @@ Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)}F, feels
 </DIV>
 
 <ul>
-<li>Anime</li>
-<li>Blues</li>
-<li>Alternative</li>
-<li>Children’s Music</li>
-<li>Country</li>
-<li>Dance </li>
-<li>Hip-Hop/Rap</li>
-<li>Fitness & Workout</li>
-<li>Holiday</li>
+<li><a href=https://www.google.com>Anime</a></li>
+<li><a href=https://www.google.com>Blues</li>
+<li><a href=https://www.google.com>Alternative</li>
+<li><a href=https://www.google.com>Children’s Music</li>
+<li><a href=https://www.google.com>Country</li>
+<li><a href=https://www.google.com>Dance </li>
+<li><a href=https://www.google.com>Hip-Hop/Rap</li>
+<li><a href=https://www.google.com>Fitness & Workout</li>
+<li><a href=https://www.google.com>Holiday</li>
 </ul>`;
 
 const kelvinToFahrenheit = kelvinTemp =>
