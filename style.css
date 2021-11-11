@@ -1,4 +1,4 @@
-*{box-sizing:border-box;border:1px solid #2f2f2f}
+
 
 body{background-color:#f7bbd9ef;color:#000000}
 body:child{margin:20px;}
@@ -26,4 +26,13 @@ header {
   font-size: 3em;
   text-align: center;
 }
+#formc{
+  display: flex;
+  align-items:center;
+  flex-direction: column;
 
+}
+#msg{
+  height: 80px;
+  width:300px;
+}

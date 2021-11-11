@@ -1,4 +1,4 @@
 export default {
-  header: "Local Music Search",
+  header: "Local Cover Bands",
   page: "About"
 };
