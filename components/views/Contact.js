@@ -20,5 +20,4 @@ What do yo want people to know about your band or venue: <br/>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-
 `;
